@@ -5,13 +5,8 @@ from user_agent import generate_user_agent
 from colorama import Fore, Style
 def logo():
     print(Fore.GREEN +"
-  _____   _              _  ______
- |  __ \ (_)            | ||___  /
- | |__) | _   ___  __ _ | |   / / 
- |  _  / | | / __|/ _` || |  / /  
- | | \ \ | || (__| (_| || | / /__ 
- |_|  \_\|_| \___|\__,_||_|/_____|
-                                  
+ Made by Berwt
+                               
                                   
 ")
 
